@@ -1,0 +1,18 @@
+COMO PUBLICAR SEU SITE - STUDIO MAX
+====================================
+
+OPCAO 1 - NETLIFY (2 minutos, mais facil)
+1. Extraia este ZIP no seu computador
+2. Acesse: app.netlify.com/drop
+3. Arraste a pasta extraida inteira pra tela. Pronto!
+
+OPCAO 2 - VERCEL (o site que voce ja tem lá)
+1. Extraia este ZIP
+2. Na Vercel, APAGUE todos os arquivos antigos e suba TODOS os
+   arquivos desta pasta (misturar versao nova com velha deixa o
+   site em branco - foi o que aconteceu!)
+3. O arquivo vercel.json ja vem incluido (faz as rotas funcionarem)
+
+IMPORTANTE
+- Nao apague nem renomeie as pastas: index.html, static/, img/, videos/
+- O site so funciona com TODOS os arquivos juntos
